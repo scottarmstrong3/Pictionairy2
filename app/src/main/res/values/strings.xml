@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pictionairy</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_name">NameActivity</string>
+    <string name="namehint">Name please, asshat</string>
+    <string name="title_activity_name2">Name2Activity</string>
+    <string name="title_activity_player1_word">Player1Word</string>
+    <string name="title_activity_drawing">DrawingActivity</string>
+</resources>
